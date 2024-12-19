@@ -211,27 +211,27 @@ main article h2 {
 }
 
 .first-image {
-    background-image: url('./img/文章2/2.1.png'); /* 第1段上方的背景图 */
+    background-image: url('/lunwen1.0//img/文章2/2.1.png'); /* 第1段上方的背景图 */
 }
 
 .second-image {
-    background-image: url('./img/文章2/2.2.png'); /* 第2段上方的背景图 */
+    background-image: url('/lunwen1.0//img/文章2/2.2.png'); /* 第2段上方的背景图 */
 }
 
 .three-image {
-    background-image: url('./img/文章2/2.3.png'); /* 第3段上方的背景图 */
+    background-image: url('/lunwen1.0//img/文章2/2.3.png'); /* 第3段上方的背景图 */
 }
 
 .four-image {
-    background-image: url('./img/文章2/2.4.png'); /* 第4段上方的背景图 */
+    background-image: url('/lunwen1.0//img/文章2/2.4.png'); /* 第4段上方的背景图 */
 }
 
 .five-image {
-    background-image: url('./img/文章2/2.5.png'); /* 第5段上方的背景图 */
+    background-image: url('/lunwen1.0//img/文章2/2.5.png'); /* 第5段上方的背景图 */
 }
 
 .six-image {
-    background-image: url('./img/文章2/2.6.png'); /* 第6段上方的背景图 */
+    background-image: url('/lunwen1.0//img/文章2/2.6.png'); /* 第6段上方的背景图 */
 }
 
 .text-content {
